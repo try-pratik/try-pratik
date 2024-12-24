@@ -61,6 +61,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Code2With-Pratik/Code2With-Pratik/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/try-pratik/try-pratik/output/snake.svg" alt="Snake animation" />
 
 ###
